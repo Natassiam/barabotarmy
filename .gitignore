@@ -30,4 +30,5 @@ index.tsx
 /.cache
 /.next
 /.nuxt
+.gitignore
 
