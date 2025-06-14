@@ -39,3 +39,7 @@ npm ls @google/genai
 
 # 7. Install or update @google/genai to the latest version
 npm install @google/genai@latest
+
+![My Chatbot Screenshot](/initial.png)
+![BTS Logo](https://upload.wikimedia.org/wikipedia/commons/0/09/BTS_logo.svg)
+![BTS page](https://ibighit.com/bts/eng/)
