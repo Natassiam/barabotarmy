@@ -1,5 +1,4 @@
-
 {
-  "name": "Chatbot de Derivadas com Gemini",
-  "description": "Um chatbot educacional para auxiliar no aprendizado de Derivadas, utilizando a API Gemini."
+  "name": "bts-army-chatbot",
+  "description": "An interactive chatbot for answering questions about BTS — including songs, career, shows, and fun facts — powered by the Gemini API."
 }
