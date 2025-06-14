@@ -1,0 +1,28 @@
+{
+  "name": "chatbot-de-derivadas-com-gemini",
+  "version": "1.0.0",
+  "description": "This contains everything you need to run your app locally.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.5.0",
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "@vitejs/plugin-react": "^4.5.2",
+    "dotenv": "^16.5.0",
+    "marked": "^15.0.12",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.1",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  }
+}
