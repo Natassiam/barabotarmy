@@ -97,7 +97,7 @@ main {
 
 .module-button {
     background-color: #4CAF50; /* Green */
-    color: white;
+    color: rgb(118, 45, 207);
     border: none;
     padding: 10px 15px;
     text-align: center;
